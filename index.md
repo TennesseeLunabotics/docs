@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+last_modified_date: 2023-10-06 02:26:12 UTC
 ---
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
@@ -22,6 +23,9 @@ To get started with creating a site, simply:
 2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
 
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+
+{: .info }
+A test message.
 
 ----
 
