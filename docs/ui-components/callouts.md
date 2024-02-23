@@ -159,4 +159,4 @@ A paragraph
 > A paragraph
 > </div>
 
-The content on this page is under an [MIT License](https://github.com/TennesseeLunabotics/docs/blob/main/LICENSE).
+The content on this page is under an [MIT License](https://github.com/just-the-docs/just-the-docs/blob/main/LICENSE.txt).

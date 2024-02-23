@@ -105,4 +105,4 @@ In order, there are missing `</td>`, `</td>`, `</tr>`, `</tbody>`, `</table>`, `
 Prior workarounds we suggested (such as [Dmitry Hrabrov's in `jekyll-compress-html`#71](https://github.com/penibelst/jekyll-compress-html/issues/71#issuecomment-188144901)) resolve the missing tag problem. However, they still place a `<table>` within a `<code>` element. The HTML spec normatively states that `<code>` elements should only contain "[phrasing content](https://html.spec.whatwg.org/multipage/dom.html#phrasing-content-2)", which does not include `<table>` ([spec ref](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-code-element)). To avoid incorrectly rendered HTML, the previously-suggested workaround using the current version of `_includes/fix_linenos.html` should _not_ be used!
 
 
-The content on this page is under an [MIT License](https://github.com/TennesseeLunabotics/docs/blob/main/LICENSE).
+The content on this page is under an [MIT License](https://github.com/just-the-docs/just-the-docs/blob/main/LICENSE.txt).

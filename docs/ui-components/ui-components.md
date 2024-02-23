@@ -12,4 +12,4 @@ To make it as easy as possible to write documentation in plain Markdown, most UI
 {: .fs-6 .fw-300 }
 
 
-The content on this page is under an [MIT License](https://github.com/TennesseeLunabotics/docs/blob/main/LICENSE).
+The content on this page is under an [MIT License](https://github.com/just-the-docs/just-the-docs/blob/main/LICENSE.txt).

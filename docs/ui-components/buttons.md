@@ -94,4 +94,4 @@ Wrap the button in a container that uses the [font-size utility classes]({% link
 [Button](https://just-the-docs.com){: .btn .btn-blue }
 ```
 
-The content on this page is under an [MIT License](https://github.com/TennesseeLunabotics/docs/blob/main/LICENSE).
+The content on this page is under an [MIT License](https://github.com/just-the-docs/just-the-docs/blob/main/LICENSE.txt).

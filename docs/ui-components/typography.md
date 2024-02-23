@@ -113,5 +113,5 @@ There are a number of specific typographic CSS classes that allow you to overrid
 
 [View typography utilities]({% link docs/ui-components/typography-util.md %}){: .btn .btn-outline }
 
-The content on this page is under an [MIT License](https://github.com/TennesseeLunabotics/docs/blob/main/LICENSE).
+The content on this page is under an [MIT License](https://github.com/just-the-docs/just-the-docs/blob/main/LICENSE.txt).
 
