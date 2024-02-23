@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Typography
+title: Typography Util
 parent: ui-components
 nav-order: 20
 ---
@@ -155,3 +155,6 @@ By default text is justified left. Use these `text-` classes to override setting
 | `.text-left`   | `text-align: left`   |
 | `.text-right`  | `text-align: right`  |
 | `.text-center` | `text-align: center` |
+
+
+The content on this page is under an [MIT License](https://github.com/TennesseeLunabotics/docs/blob/main/LICENSE).
