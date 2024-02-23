@@ -79,8 +79,6 @@ Wrap the button in a container that uses the [font-size utility classes]({% link
 
 ### Spacing between buttons
 
-Use the [margin utility classes]({% link docs/utilities/layout.md %}#spacing) to add spacing between two buttons in the same block.
-
 <div class="code-example" markdown="1">
 [Button with space](https://just-the-docs.com){: .btn .btn-purple .mr-2 }
 [Button](https://just-the-docs.com){: .btn .btn-blue }

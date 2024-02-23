@@ -183,7 +183,7 @@ Some text
 - level 1 item (ul)
 - level 1 item (ul)
 
-### Image
+### An image
 
 ![](../../assets/images/md-test-image.jpg)
 
