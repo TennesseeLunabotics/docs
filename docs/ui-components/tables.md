@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Tables
-parent: UI Components
-nav_order: 4
+parent: Markdown Help
+nav_order: 5
 ---
 
 # Tables

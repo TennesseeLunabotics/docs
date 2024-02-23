@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Typography Util
-parent: ui-components
-nav-order: 20
+parent: Markdown Help
+nav-order: 10
 ---
 
 # Typography Utilities

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Labels
-parent: UI Components
-nav_order: 3
+parent: Markdown Help
+nav_order: 4
 ---
 
 # Labels

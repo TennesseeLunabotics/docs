@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Lists
-parent: UI Components
-nav_order: 5
+parent: Markdown Help
+nav_order: 6
 ---
 
 # Lists

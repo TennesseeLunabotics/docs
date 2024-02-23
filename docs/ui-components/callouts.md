@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Callouts
-parent: UI Components
-nav_order: 7
+parent: Markdown Help
+nav_order: 8
 ---
 
 # Callouts

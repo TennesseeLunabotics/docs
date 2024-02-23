@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Kitchen Sink
-parent: UI Components
-nav_order: 0
+parent: Markdown Help
+nav_order: 1
 ---
 
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
