@@ -3,7 +3,6 @@ layout: default
 title: Code with line numbers
 parent: Code
 grand_parent: Markdown Help
-permalink: /docs/ui-components/code/line-numbers/
 ---
 
 # Code snippets with line numbers
