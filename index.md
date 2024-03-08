@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-[](assets/images/backDrop2.png)
+![](assets/images/backDrop2.png)
 
 This site contains all documentation for the Tennessee Lunabotics team participating in the [NASA RMC Lunabotics Challenge].
 

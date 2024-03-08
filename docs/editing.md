@@ -99,7 +99,7 @@ for the sake of organization), The heading info block will need a couple extra f
 for `docs/ui-components/code.md` and its child `docs/ui-components/line-numbers.md` as an example.
 
 - If you wish to have a table of contents, add the following to the top of your page below the info block:
-```
+```md
 # Page Title
 {: .no_toc }
 
@@ -117,7 +117,7 @@ for `docs/ui-components/code.md` and its child `docs/ui-components/line-numbers.
 After committing your changes, github will attempt to rebuilt the entire site and publish. If you get a green check
 next to your commit, then everything succeeded. If not, something didn't work. 
 
-[](../assets/images/editing-help-commit-example.png)
+![](../assets/images/editing-help-commit-example.png)
 
 Clicking on the red X and checking the details of the `CI / build (push)` job may help. If you are still unable to figure it out, reach out to programming (someone likely already got an email about the failed build, but don't sweat that).
 
