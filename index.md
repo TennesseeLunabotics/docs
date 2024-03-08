@@ -8,7 +8,7 @@ nav_order: 1
 
 This site contains all documentation for the Tennessee Lunabotics team participating in the [NASA RMC Lunabotics Challenge].
 
-[Learn how to edit this site.](docs/editing.md)
+[Learn how to edit this site.](docs/editing.html)
 
 
 [NASA RMC Lunabotics Challenge]: https://www.nasa.gov/learning-resources/lunabotics-challenge/

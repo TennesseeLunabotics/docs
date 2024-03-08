@@ -82,7 +82,7 @@ have a Github Pro account.
 
 Help with the markdown language (the language the files that make up these pages uses) can be
 found in many places online. In addition to that, there's documentation and examples of what
-can be done on these pages at [Markdown Help](docs/ui-components.md).
+can be done on these pages at [Markdown Help](docs/ui-components.html).
 
 A couple things to note:
 - Every page, with the exception of the homepage titled `index.md` will live inside of the docs folder.
@@ -99,11 +99,12 @@ for the sake of organization), The heading info block will need a couple extra f
 for `docs/ui-components/code.md` and its child `docs/ui-components/line-numbers.md` as an example.
 
 - If you wish to have a table of contents, add the following to the top of your page below the info block:
-```md
-# Page Title
+
+```
+(#) Page Title
 {: .no_toc }
 
-## Table of Contents
+(##) Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -114,8 +115,8 @@ for `docs/ui-components/code.md` and its child `docs/ui-components/line-numbers.
 
 ## Publishing
 
-After committing your changes, github will attempt to rebuilt the entire site and publish. If you get a green check
-next to your commit, then everything succeeded. If not, something didn't work. 
+After committing your changes, Github will attempt to rebuilt the entire site and publish. If you get a green check
+next to your commit, then everything succeeded. If not, there's an error somewhere. Likely, it'll be related to linking pages together and file structure.
 
 ![](../assets/images/editing-help-commit-example.png)
 
