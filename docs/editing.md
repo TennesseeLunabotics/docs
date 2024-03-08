@@ -18,7 +18,7 @@ nav_order: 2
 ## Gaining Access
 
 The files that make up this site live with the rest of our code in the Tennessee Lunabotics 
-[Github Org]. To edit, you first must be a member of the organization to have write access. 
+[Github Org]. To edit, you first must be a member of the organization. 
 Create a Github account if you don't have one already, and message the current Control Systems 
 Team Lead on Discord with your Github username.
 
@@ -82,7 +82,7 @@ have a Github Pro account.
 
 Help with the markdown language (the language the files that make up these pages uses) can be
 found in many places online. In addition to that, there's documentation and examples of what
-can be done on these pages at [Markdown Help](docs/ui-components.html).
+can be done on these pages at [Markdown Help](https://docs.tennesseelunabotics.com/docs/ui-components).
 
 A couple things to note:
 - Every page, with the exception of the homepage titled `index.md` will live inside of the docs folder.
